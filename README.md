@@ -105,28 +105,3 @@ dotnet run" tabindex="0" role="button">
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/evgomes/supermarket-api/master/images/swagger.png"><img src="https://raw.githubusercontent.com/evgomes/supermarket-api/master/images/swagger.png" alt="API Documentation" style="max-width: 100%;"></a></p>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Contributors ✨</h2><a id="user-content-contributors-" class="anchor" aria-label="Permalink: Contributors ✨" href="#contributors-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">Thanks goes to these wonderful people (<a href="https://allcontributors.org/docs/en/emoji-key" rel="nofollow">emoji key</a>):</p>
-
-
-
-<markdown-accessiblity-table data-catalyst=""><table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/mattbarry"><img src="https://avatars.githubusercontent.com/u/1567119?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Matt Barry</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/commits?author=mattbarry" title="Code">💻</a></td>
-    <td align="center"><a href="https://hippiezhou.fun" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/13598361?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>hippie</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/commits?author=hippieZhou" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/NoobInTraining"><img src="https://avatars.githubusercontent.com/u/23185961?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>NoobInTraining</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/commits?author=NoobInTraining" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mahmmoud-kinawy-7928b218a/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/57391128?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Ma'hmmoud Kinawy</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/commits?author=mahmmoudkinawy" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/arazauk/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/22678337?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Ahsan Raza</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/pulls?q=is%3Apr+reviewed-by%3AAhsanRazaUK" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/dundich"><img src="https://avatars.githubusercontent.com/u/1078713?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>dundich</b></sub></a><br><a href="#ideas-dundich" title="Ideas, Planning, &amp; Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/thedon-chris"><img src="https://avatars.githubusercontent.com/u/30728737?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>thedon_chris</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/issues?q=author%3Athedon-chris" title="Bug reports">🐛</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/subhanisyed17"><img src="https://avatars.githubusercontent.com/u/46715997?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>subhanisyed17</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/issues?q=author%3Asubhanisyed17" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://www.geekcafe.com" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/3632968?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Eric Wilson</b></sub></a><br><a href="#question-eric-wilson" title="Answering Questions">💬</a></td>
-    <td align="center"><a href="https://github.com/Pham-Tuan-Phat"><img src="https://avatars.githubusercontent.com/u/61822642?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Phạm Tuấn Phát</b></sub></a><br><a href="#ideas-Pham-Tuan-Phat" title="Ideas, Planning, &amp; Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/miki-nis"><img src="https://avatars.githubusercontent.com/u/12809735?v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>miki-nis</b></sub></a><br><a href="https://github.com/evgomes/supermarket-api/issues?q=author%3Amiki-nis" title="Bug reports">🐛</a></td>
-  </tr>
-</tbody></table></markdown-accessiblity-table>
-
-
-
-<p dir="auto">This project follows the <a href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind welcome!</p>
-</article></div>
